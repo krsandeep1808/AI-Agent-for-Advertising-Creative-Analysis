@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+pytesseract
+opencv-python
+numpy
+pandas
+sqlalchemy
+seaborn
+matplotlib
+Pillow
