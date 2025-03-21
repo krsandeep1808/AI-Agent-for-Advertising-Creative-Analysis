@@ -13,5 +13,5 @@ Create the main backend in app.py to handle file uploads, data storage, and API 
 6. Run the Application
    uvicorn app:app --reload
 
-7. API Endpoints
+
 
